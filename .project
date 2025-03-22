@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>my-app</name>
+	<name>sandbox</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1742631716406</id>
+			<id>1742637286332</id>
 			<name></name>
 			<type>30</type>
 			<matcher>

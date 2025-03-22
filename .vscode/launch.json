@@ -2,14 +2,17 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "hello world",
             "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "com.mycompany.app.App",
-            "args": "",
-            "projectName": "my-app"
+            "mainClass": "fma.sandbox.helloworld.Main",
+            "projectName": "sandbox"
+        },
+        {
+            "type": "java",
+            "name": "sandbox",
+            "request": "launch",
+            "mainClass": "fma.sandbox.SandboxApplication",
+            "projectName": "sandbox"
         }
     ]
 }

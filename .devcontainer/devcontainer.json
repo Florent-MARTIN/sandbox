@@ -9,7 +9,6 @@
 		"ghcr.io/devcontainers/features/java:1": {
 			"version": "none",
 			"installMaven": "true",
-			"mavenVersion": "3.8.6",
 			"installGradle": "false"
 		}
 	},
@@ -20,7 +19,14 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
+				"vscjava.vscode-java-pack",
+				"GitHub.copilot",
+				"SonarSource.sonarlint-vscode",
+				"shengchen.vscode-checkstyle",
+				"vmware.vscode-boot-dev-pack",
+				"redhat.vscode-xml",
+				"github.vscode-github-actions",
+				"mhutchie.git-graph"
 			]
 		}
 	}
